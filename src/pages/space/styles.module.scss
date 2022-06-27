@@ -75,7 +75,7 @@
         }
 
         .infoItem {
-          font-family: Neuzeit Grotesk;
+          font-family: 'Neuzeit Grotesk';
           line-height: 110%;
           height: 50px;
           text-align: left;
@@ -83,7 +83,7 @@
           font-size: 15px;
           color: $lightGray1;
           padding-top: 5%;
-          padding-bottom: 5%;
+          padding-bottom: 5%; 
           font-weight: 300;
 
           span {
