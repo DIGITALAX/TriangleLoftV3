@@ -30,7 +30,7 @@ const LandingPage = () => {
     "@type": "Triangle Loft",
     title: "Triangle Loft",
     description:
-      "Create. Connect. Converge.",
+      "Create. Converge. Connect.",
   };
 
   // console.log('products: ', products)
@@ -40,7 +40,7 @@ const LandingPage = () => {
       <Head>
         <meta
           name="description"
-          content="Create. Connect. Converge."
+          content="Create. Converge. Connect."
         />
 
         <meta
@@ -49,7 +49,7 @@ const LandingPage = () => {
         />
         <meta
           property="og:description"
-          content="Create. Connect. Converge."
+          content="Create. Converge. Connect."
         />
         <meta property="og:url" content="https://triangleloft.com/" />
         <meta name="twitter:card" content="summary" />
@@ -57,7 +57,7 @@ const LandingPage = () => {
         <meta name="twitter:title" content="Triangle Loft" />
         <meta
           name="twitter:description"
-          content="Create. Connect. Converge."
+          content="Create. Converge. Connect."
         />
         <script src="https://cdn.rawgit.com/progers/pathseg/master/pathseg.js"></script>
         <script

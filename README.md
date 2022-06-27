@@ -1,4 +1,4 @@
-# LAWE Frontend
+# Triangle Loft Front End
 Built based on next.js
 
 ### Installation

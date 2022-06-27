@@ -53,23 +53,28 @@ const LandingFooter = () => {
               <div className={styles.content}>
                 <ul>
                   <li>
-                    <a href="https://www.facebook.com/triangleloft" target="_blank">
+                    <a href="https://facebook.com/" target="_blank">
                       <SocialIcon name="facebook" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://twitter.com/LoftTriangle" target="_blank">
+                    <a href="https://twitter.com/" target="_blank">
                       <SocialIcon name="twitter" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/triangleloft/" target="_blank">
+                    <a href="https://instagram.com/" target="_blank">
                       <SocialIcon name="instagram" />
                     </a> 
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/channel/UCduGTVdT0IwAkhJ5Og-M5qA" target="_blank">
+                    <a href="https://youtube.com/" target="_blank">
                       <SocialIcon name="youtube" />
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://medium.com/" target="_blank">
+                      <SocialIcon name="medium1" />
                     </a>
                   </li>
                 </ul>
@@ -80,6 +85,9 @@ const LandingFooter = () => {
               <div className={styles.content}>
                 675 Hudson St., Fl.5 <br />
                 New York, NY 10014
+                <br></br>
+                <br></br>
+                +1-212-675-8049
               </div>
             </div>
           </div>
