@@ -34,7 +34,7 @@
       font-family: "Bicyclette";
       font-style: normal;
       font-weight: 900;
-      background: linear-gradient(107.13deg, #16123C -38.35%, #FF4E54 -38.34%, #042A70 -30.54%, #FF8C73 75.54%);
+      background: linear-gradient(107.13deg, #16123C -38.35%, #042A70 -30.54%,  #FF4E54 70.34%,);
       // background: linear-gradient(to right, #042a70, #ff4e54, #ff8c73);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -91,6 +91,7 @@
         font-style: normal;
         font-weight: 400;
         padding-top: 16px;
+        padding-left: 0.5vw;
         text-transform: uppercase;
         text-decoration: underline;
         color: #ff4e54;
@@ -107,7 +108,7 @@
           background-size: cover;
           display: inline-block;
           position: absolute;
-          right: -16px;
+          right: -18px;
           bottom: 4px;
         }
       }
@@ -216,6 +217,7 @@
             text-decoration: underline;
             text-align: left;
             margin-top: 0;
+
           }
 
           p.role {
